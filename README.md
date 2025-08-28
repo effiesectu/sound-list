@@ -1,28 +1,28 @@
 # sound-list
 ## list of all the sounds from the harsh realm
 > [!IMPORTANT]
-> Sound alerts can only be used by Moderators, Subscribers, and VIPs unless stated otherwise
+> Sound alerts can only be used by **Moderators**, **Subscribers**, and **VIPs** unless stated otherwise
 
 > [!NOTE]
-> Alerts without an exclamation point can be used by anyone
+> Alerts without an exclamation point can be used by **anyone**
 - !alert
-  - available under "Alert" Channel Reward
-  - activates popup
+  - _available under "Alert" Channel Reward_
+  - _activates popup_
 - !applause1
-  - available under "Applause" Channel Reward
+  - _available under "Applause" Channel Reward_
 - !applause2
-  - available under "Applause" Channel Reward
+  - _available under "Applause" Channel Reward_
 - !applause3
-  - available under "Applause" Channel Reward
+  - _available under "Applause" Channel Reward_
 - !applause4
-  - available under "Applause" Channel Reward
+  - _available under "Applause" Channel Reward_
 - !believe
-  - activates popup
+  - _activates popup_
 - !bonk
-  - available under "Bonk" Channel Reward
-  - activates popup
+  - _available under "Bonk" Channel Reward_
+  - _activates popup_
 - !buzz
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !chocolate1
 - !chocolate2
 - !chocolate3
@@ -32,109 +32,109 @@
 - !daytwo
 - !dolphin
 - !elijah
-  - activates popup
+  - _activates popup_
 - !error
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !eternity
 - !excellent
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - !failure
-  - available under "Fail" Channel Reward
-  - activates popup
+  - _available under "Fail" Channel Reward_
+  - _activates popup_
 - !fantastic
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - !fedup
-  - activates popup
+  - _activates popup_
 - !fewinches
 - !fewmoments
 - !gameoveryeah
-  - available under "Fail" Channel Reward
-  - activates popup
+  - _available under "Fail" Channel Reward_
+  - _activates popup_
 - !gobbleme
 - !golfclap
-  - available under "Applause" Channel Reward
+  - _available under "Applause" Channel Reward_
 - !goodluck
-  - available under "Good Luck" Channel Reward
+  - _available under "Good Luck" Channel Reward_
 - !goodluck2
-  - available under "Good Luck" Channel Reward
+  - _available under "Good Luck" Channel Reward_
 - !goodluck3
-  - available under "Good Luck" Channel Reward
+  - _available under "Good Luck" Channel Reward_
 - !goodluck4
-  - available under "Good Luck" Channel Reward
+  - _available under "Good Luck" Channel Reward_
 - !goodluck5
-  - available under "Good Luck" Channel Reward
+  - _available under "Good Luck" Channel Reward_
 - !hearts
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - huh
-  - activates popup
+  - _activates popup_
 - !hump
 - !idbuythat
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - !ididit
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - !iloveit
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - !itsdangerous
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !lose1
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !lose2
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !manymonths
 - !mariofail
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !miaou
-  - activates popup
+  - _activates popup_
 - !miss
-  - available under "Fail" Channel Reward
-  - activates popup
+  - _available under "Fail" Channel Reward_
+  - _activates popup_
 - !nancyhelp
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !naur
 - !notpoopie
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - oof
 - !poopie
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !record
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - !readygo
-  - activates popup
+  - _activates popup_
 - !sadviolin
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !scream
 - !scream2
 - !scream3
 - !scream4
 - !secret
 - !shutup
-  - activates popup
+  - _activates popup_
 - !sonicdrown
 - !spongefail
-  - available under "Fail" Channel Reward
+  - _available under "Fail" Channel Reward_
 - !spongechase
 - !stupidagame
-  - activates popup
+  - _activates popup_
 - !threeweeks
 - !tiptoe
 - toasty
-  - activates popup
+  - _activates popup_
 - !torque
 - !trueliar
 - !twelveoclock
 - !twohours
 - !twothousand
 - !wasted
-  - available under "Fail" Channel Reward
-  - activates popup
+  - _available under "Fail" Channel Reward_
+  - _activates popup_
 - !wheee
-  - activates popup
+  - _activates popup_
 - !wigs
 - !yay
-  - available under "Cheer" Channel Reward
-  - activates popup
+  - _available under "Cheer" Channel Reward_
+  - _activates popup_
 - !youwhat
 - !youwon
-  - available under "Cheer" Channel Reward
+  - _available under "Cheer" Channel Reward_
 - yuck
-  - activates popup
+  - _activates popup_
