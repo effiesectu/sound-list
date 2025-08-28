@@ -2,6 +2,9 @@
 ## list of all the sounds from the harsh realm
 > [!IMPORTANT]
 > Sound alerts can only be used by Moderators, Subscribers, and VIPs unless stated otherwise
+
+> [!NOTE]
+> Alerts without an exclamation point can be used by anyone
 - !alert
   - available under "Alert" Channel Reward
   - activates popup
@@ -41,6 +44,7 @@
 - !fantastic
   - available under "Cheer" Channel Reward
 - !fedup
+  - activates popup
 - !fewinches
 - !fewmoments
 - !gameoveryeah
@@ -61,6 +65,8 @@
   - available under "Good Luck" Channel Reward
 - !hearts
   - available under "Cheer" Channel Reward
+- huh
+  - activates popup
 - !hump
 - !idbuythat
   - available under "Cheer" Channel Reward
@@ -76,7 +82,9 @@
   - available under "Fail" Channel Reward
 - !manymonths
 - !mariofail
+  - available under "Fail" Channel Reward
 - !miaou
+  - activates popup
 - !miss
   - available under "Fail" Channel Reward
   - activates popup
@@ -85,27 +93,32 @@
 - !naur
 - !notpoopie
   - available under "Cheer" Channel Reward
+- oof
 - !poopie
   - available under "Fail" Channel Reward
 - !record
   - available under "Cheer" Channel Reward
 - !readygo
+  - activates popup
 - !sadviolin
+  - available under "Fail" Channel Reward
 - !scream
 - !scream2
 - !scream3
 - !scream4
 - !secret
-- !seinfeld1
-- !seinfeld2
-- !seinfeld3
 - !shutup
+  - activates popup
+- !sonicdrown
 - !spongefail
   - available under "Fail" Channel Reward
 - !spongechase
 - !stupidagame
+  - activates popup
 - !threeweeks
 - !tiptoe
+- toasty
+  - activates popup
 - !torque
 - !trueliar
 - !twelveoclock
@@ -114,6 +127,8 @@
 - !wasted
   - available under "Fail" Channel Reward
   - activates popup
+- !wheee
+  - activates popup
 - !wigs
 - !yay
   - available under "Cheer" Channel Reward
@@ -121,4 +136,5 @@
 - !youwhat
 - !youwon
   - available under "Cheer" Channel Reward
-- !yuck
+- yuck
+  - activates popup
