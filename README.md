@@ -3,13 +3,23 @@
 > [!IMPORTANT]
 > Sound alerts can only be used by Moderators, Subscribers, and VIPs unless stated otherwise
 - !alert
+  - available under "Alert" Channel Reward
+  - activates popup
 - !applause1
+  - available under "Applause" Channel Reward
 - !applause2
+  - available under "Applause" Channel Reward
 - !applause3
+  - available under "Applause" Channel Reward
 - !applause4
+  - available under "Applause" Channel Reward
 - !believe
+  - activates popup
 - !bonk
+  - available under "Bonk" Channel Reward
+  - activates popup
 - !buzz
+  - available under "Fail" Channel Reward
 - !chocolate1
 - !chocolate2
 - !chocolate3
@@ -19,39 +29,66 @@
 - !daytwo
 - !dolphin
 - !elijah
+  - activates popup
 - !error
+  - available under "Fail" Channel Reward
 - !eternity
 - !excellent
+  - available under "Cheer" Channel Reward
 - !failure
+  - available under "Fail" Channel Reward
+  - activates popup
 - !fantastic
+  - available under "Cheer" Channel Reward
 - !fedup
 - !fewinches
 - !fewmoments
 - !gameoveryeah
+  - available under "Fail" Channel Reward
+  - activates popup
 - !gobbleme
 - !golfclap
+  - available under "Applause" Channel Reward
 - !goodluck
+  - available under "Good Luck" Channel Reward
 - !goodluck2
+  - available under "Good Luck" Channel Reward
 - !goodluck3
+  - available under "Good Luck" Channel Reward
 - !goodluck4
+  - available under "Good Luck" Channel Reward
 - !goodluck5
+  - available under "Good Luck" Channel Reward
 - !hearts
+  - available under "Cheer" Channel Reward
 - !hump
 - !idbuythat
+  - available under "Cheer" Channel Reward
 - !ididit
+  - available under "Cheer" Channel Reward
 - !iloveit
+  - available under "Cheer" Channel Reward
 - !itsdangerous
+  - available under "Fail" Channel Reward
 - !lose1
+  - available under "Fail" Channel Reward
 - !lose2
+  - available under "Fail" Channel Reward
 - !manymonths
 - !mariofail
 - !miaou
 - !miss
+  - available under "Fail" Channel Reward
+  - activates popup
 - !nancyhelp
+  - available under "Fail" Channel Reward
 - !naur
 - !notpoopie
+  - available under "Cheer" Channel Reward
 - !poopie
+  - available under "Fail" Channel Reward
 - !record
+  - available under "Cheer" Channel Reward
 - !readygo
 - !sadviolin
 - !scream
@@ -64,6 +101,7 @@
 - !seinfeld3
 - !shutup
 - !spongefail
+  - available under "Fail" Channel Reward
 - !spongechase
 - !stupidagame
 - !threeweeks
@@ -74,8 +112,13 @@
 - !twohours
 - !twothousand
 - !wasted
+  - available under "Fail" Channel Reward
+  - activates popup
 - !wigs
 - !yay
+  - available under "Cheer" Channel Reward
+  - activates popup
 - !youwhat
 - !youwon
+  - available under "Cheer" Channel Reward
 - !yuck
