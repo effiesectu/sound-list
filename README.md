@@ -1,2 +1,5 @@
 # sound-list
 list of all the sounds from the harsh realm
+alert
+applause1
+applause2, applause3, applause4, believe, bonk, buzz, chocolate1, chocolate2, chocolate3, chomp, dayfour, daythree, daytwo, dolphin, elijah, error, eternity, excellent, failure, fantastic, fedup, fewinches, fewmoments, gameoveryeah, gobbleme, golfclap, goodluck, goodluck2, goodluck3, goodluck4, goodluck5, hearts, hump, idbuythat, ididit, iloveit, itsdangerous, lose1, lose2, manymonths, mariofail, miaou, miss, nancyhelp, naur, notpoopie, poopie, record, readygo, sadviolin, scream, scream2, scream3, scream4, secret, seinfeld1, seinfeld2, seinfeld3, shutup, spongefail, spongechase, stupidagame, threeweeks, tiptoe, torque, trueliar, twelveoclock, twohours, twothousand, wasted, wigs, yay, youwhat, youwon, yuck
