@@ -130,6 +130,7 @@
 - !wheee
   - _activates popup_
 - !wigs
+- !wow
 - !yay
   - _available under "Cheer" Channel Reward_
   - _activates popup_
