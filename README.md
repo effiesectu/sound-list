@@ -131,6 +131,7 @@
   - _activates popup_
 - !wigs
 - !wow
+  - _available under "Cheer" Channel Reward_
 - !yay
   - _available under "Cheer" Channel Reward_
   - _activates popup_
