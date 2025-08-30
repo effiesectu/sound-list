@@ -93,6 +93,8 @@
 - !naur
 - !niceshot
   - _available under "Cheer" Channel Reward_
+- !niceashot
+  - _available under "Cheer" Channel Reward_
 - !notpoopie
   - _available under "Cheer" Channel Reward_
 - oof
