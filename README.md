@@ -91,6 +91,8 @@
 - !nancyhelp
   - _available under "Fail" Channel Reward_
 - !naur
+- !niceshot
+  - _available under "Cheer" Channel Reward_
 - !notpoopie
   - _available under "Cheer" Channel Reward_
 - oof
