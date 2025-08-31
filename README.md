@@ -76,6 +76,8 @@
   - _available under "Cheer" Channel Reward_
 - !itsdangerous
   - _available under "Fail" Channel Reward_
+- !jack
+  - _activates popup_
 - !lose1
   - _available under "Fail" Channel Reward_
 - !lose2
