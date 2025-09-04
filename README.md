@@ -1,11 +1,11 @@
 # sound-list
 ## list of all the sounds from the harsh realm
 > [!IMPORTANT]
-> Sound alerts can only be used by **Moderators**, **Subscribers**, and **VIPs** unless stated otherwise
+> Sounds marked with an asterisk (*) can only be used by **Moderators**, **Subscribers**, and **VIPs**
 
 > [!NOTE]
 > Alerts without an exclamation point can be used by **anyone**
-- !alert
+- *!alert
   - _available under "Alert" Channel Reward_
   - _activates popup_
 - !applause1
@@ -16,9 +16,9 @@
   - _available under "Applause" Channel Reward_
 - !applause4
   - _available under "Applause" Channel Reward_
-- !believe
+- *!believe
   - _activates popup_
-- !bonk
+- *!bonk
   - _available under "Bonk" Channel Reward_
   - _activates popup_
 - !buzz
@@ -31,23 +31,23 @@
 - !daythree
 - !daytwo
 - !dolphin
-- !elijah
+- *!elijah
   - _activates popup_
 - !error
   - _available under "Fail" Channel Reward_
 - !eternity
 - !excellent
   - _available under "Cheer" Channel Reward_
-- !failure
+- *!failure
   - _available under "Fail" Channel Reward_
   - _activates popup_
 - !fantastic
   - _available under "Cheer" Channel Reward_
-- !fedup
+- *!fedup
   - _activates popup_
 - !fewinches
 - !fewmoments
-- !gameoveryeah
+- *!gameoveryeah
   - _available under "Fail" Channel Reward_
   - _activates popup_
 - !gobbleme
@@ -76,7 +76,7 @@
   - _available under "Cheer" Channel Reward_
 - !itsdangerous
   - _available under "Fail" Channel Reward_
-- !jack
+- *!jack
   - _activates popup_
 - !lose1
   - _available under "Fail" Channel Reward_
@@ -85,9 +85,9 @@
 - !manymonths
 - !mariofail
   - _available under "Fail" Channel Reward_
-- !miaou
+- *!miaou
   - _activates popup_
-- !miss
+- *!miss
   - _available under "Fail" Channel Reward_
   - _activates popup_
 - !nancyhelp
@@ -102,10 +102,10 @@
 - oof
 - !poopie
   - _available under "Fail" Channel Reward_
+- *!readygo
+  - _activates popup_
 - !record
   - _available under "Cheer" Channel Reward_
-- !readygo
-  - _activates popup_
 - !sadviolin
   - _available under "Fail" Channel Reward_
 - !scream
@@ -113,13 +113,13 @@
 - !scream3
 - !scream4
 - !secret
-- !shutup
+- *!shutup
   - _activates popup_
 - !sonicdrown
+- !spongechase
 - !spongefail
   - _available under "Fail" Channel Reward_
-- !spongechase
-- !stupidagame
+- *!stupidagame
   - _activates popup_
 - !threeweeks
 - !tiptoe
@@ -130,15 +130,15 @@
 - !twelveoclock
 - !twohours
 - !twothousand
-- !wasted
+- *!wasted
   - _available under "Fail" Channel Reward_
   - _activates popup_
-- !wheee
+- *!wheee
   - _activates popup_
 - !wigs
 - !wow
   - _available under "Cheer" Channel Reward_
-- !yay
+- *!yay
   - _available under "Cheer" Channel Reward_
   - _activates popup_
 - !youwhat
