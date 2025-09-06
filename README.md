@@ -112,7 +112,6 @@
 - !scream2
 - !scream3
 - !scream4
-- !secret
 - *!shutup
   - _activates popup_
 - *!silenthill
