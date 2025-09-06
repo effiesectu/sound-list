@@ -115,6 +115,8 @@
 - !secret
 - *!shutup
   - _activates popup_
+- *!silenthill
+  - _activates popup_
 - !sonicdrown
 - !spongechase
 - !spongefail
