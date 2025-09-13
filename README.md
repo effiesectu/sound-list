@@ -16,6 +16,7 @@
   - _available under "Applause" Channel Reward_
 - !applause4
   - _available under "Applause" Channel Reward_
+- !beatthedevil
 - *!believe
   - _activates popup_
 - *!bonk
