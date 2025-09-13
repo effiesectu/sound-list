@@ -17,20 +17,28 @@
 - !applause4
   - _available under "Applause" Channel Reward_
 - !beatthedevil
+- !bestgame
 - *!believe
   - _activates popup_
 - *!bonk
   - _available under "Bonk" Channel Reward_
   - _activates popup_
+- !bustyouup
 - !buzz
   - _available under "Fail" Channel Reward_
+- !champion
+  - _available under "Cheer" Channel Reward_
+- !cheese
+- !chicken
 - !chocolate1
 - !chocolate2
 - !chocolate3
 - !chomp
+- !cool
 - !dayfour
 - !daythree
 - !daytwo
+- !doitnow
 - !dolphin
 - *!elijah
   - _activates popup_
@@ -48,6 +56,13 @@
   - _activates popup_
 - !fewinches
 - !fewmoments
+- !finishher
+- !finishhim
+- !flawlessvictory
+  - _available under "Cheer" Channel Reward_
+- !friendship
+- !gameover
+  - _available under "Fail" Channel Reward_
 - *!gameoveryeah
   - _available under "Fail" Channel Reward_
   - _activates popup_
@@ -64,6 +79,9 @@
   - _available under "Good Luck" Channel Reward_
 - !goodluck5
   - _available under "Good Luck" Channel Reward_
+- !goodmorning
+- !guts
+- !halfamind
 - !hearts
   - _available under "Cheer" Channel Reward_
 - huh
@@ -79,6 +97,9 @@
   - _available under "Fail" Channel Reward_
 - *!jack
   - _activates popup_
+- !letsdoit
+- !loser
+  - _available under "Fail" Channel Reward_
 - !lose1
   - _available under "Fail" Channel Reward_
 - !lose2
@@ -101,8 +122,11 @@
 - !notpoopie
   - _available under "Cheer" Channel Reward_
 - oof
+- oops
+- !ovafayou
 - !poopie
   - _available under "Fail" Channel Reward_
+- !punk
 - *!readygo
   - _activates popup_
 - !record
@@ -113,6 +137,7 @@
 - !scream2
 - !scream3
 - !scream4
+- !shiver
 - *!shutup
   - _activates popup_
 - *!silenthill
@@ -127,6 +152,8 @@
 - !tiptoe
 - toasty
   - _activates popup_
+- !tooeasy
+  - _available under "Cheer" Channel Reward_
 - !torque
 - !trueliar
 - !twelveoclock
@@ -137,14 +164,24 @@
   - _activates popup_
 - *!wheee
   - _activates popup_
+- !whip
 - !wigs
 - !wow
   - _available under "Cheer" Channel Reward_
 - *!yay
   - _available under "Cheer" Channel Reward_
   - _activates popup_
+- !yourbest
+  - _available under "Fail" Channel Reward_
 - !youwhat
+- !youlose
+  - _available under "Fail" Channel Reward_
+- !yousuck
+  - _available under "Fail" Channel Reward_
+- !youwin
+  - _available under "Cheer" Channel Reward_
 - !youwon
   - _available under "Cheer" Channel Reward_
 - yuck
   - _activates popup_
+- !yowassup
