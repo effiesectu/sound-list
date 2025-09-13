@@ -34,7 +34,7 @@
 - !chocolate2
 - !chocolate3
 - !chomp
-- !cool
+- cool
 - !dayfour
 - !daythree
 - !daytwo
