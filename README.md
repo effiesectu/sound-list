@@ -52,6 +52,7 @@
 - *!gameoveryeah
   - _available under "Fail" Channel Reward_
   - _activates popup_
+- !gg
 - !gobbleme
 - !golfclap
   - _available under "Applause" Channel Reward_
