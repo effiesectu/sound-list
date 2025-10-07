@@ -20,9 +20,6 @@
 - !bestgame
 - *!believe
   - _activates popup_
-- *!bonk
-  - _available under "Bonk" Channel Reward_
-  - _activates popup_
 - !bustyouup
 - !buzz
   - _available under "Fail" Channel Reward_
