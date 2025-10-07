@@ -126,7 +126,7 @@
 - !ovafayou
 - !poopie
   - _available under "Fail" Channel Reward_
-- !punk
+- punk
 - *!readygo
   - _activates popup_
 - !record
