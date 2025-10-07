@@ -5,17 +5,6 @@
 
 > [!NOTE]
 > Alerts without an exclamation point can be used by **anyone**
-- *!alert
-  - _available under "Alert" Channel Reward_
-  - _activates popup_
-- !applause1
-  - _available under "Applause" Channel Reward_
-- !applause2
-  - _available under "Applause" Channel Reward_
-- !applause3
-  - _available under "Applause" Channel Reward_
-- !applause4
-  - _available under "Applause" Channel Reward_
 - !beatthedevil
 - !bestgame
 - *!believe
