@@ -43,115 +43,70 @@
 | *!gameoveryeah | Announcer from Sega Rally Championship saying "Game Over Yeaaaaaahhh!" along with a Game Over image | Will randomly play under the "Fail" Channel Reward |
 | !gg | Randomly cycles through different video game win screen music | Will cycle through win music from Rayman 1, Kirby's Adventure, Sonic 2, Megaman X, and GTA San Andreas |
 | !go | Tekken 3 announcer saying "Go!" | Another command from the best Tekken announcer |
-| --- | --- | --- |
-| --- | --- | --- |
-
-- !gobbleme
-- !golfclap
-  - _available under "Applause" Channel Reward_
-- !goodmorning
-- !guts
-- !halfamind
-- !hearts
-  - _available under "Cheer" Channel Reward_
-- huh
-  - _activates popup_
-- !hump
-- !idbuythat
-  - _available under "Cheer" Channel Reward_
-- !ididit
-  - _available under "Cheer" Channel Reward_
-- !iloveit
-  - _available under "Cheer" Channel Reward_
-- !itsdangerous
-  - _available under "Fail" Channel Reward_
-- *!jack
-  - _activates popup_
-- !letsdoit
-- !loser
-  - _available under "Fail" Channel Reward_
-- !lose1
-  - _available under "Fail" Channel Reward_
-- !lose2
-  - _available under "Fail" Channel Reward_
-- !manymonths
-- !mariofail
-  - _available under "Fail" Channel Reward_
-- *!miaou
-  - _activates popup_
-- *!miss
-  - _available under "Fail" Channel Reward_
-  - _activates popup_
-- !nancyhelp
-  - _available under "Fail" Channel Reward_
-- !naur
-- !niceshot
-  - _available under "Cheer" Channel Reward_
-- !niceashot
-  - _available under "Cheer" Channel Reward_
-- !notpoopie
-  - _available under "Cheer" Channel Reward_
-- oof
-- oops
-- !ovafayou
-- !poopie
-  - _available under "Fail" Channel Reward_
-- punk
-- *!readygo
-  - _activates popup_
-- !record
-  - _available under "Cheer" Channel Reward_
-- !sadviolin
-  - _available under "Fail" Channel Reward_
-- !scream
-- !scream2
-- !scream3
-- !scream4
-- !shiver
-- *!shutup
-  - _activates popup_
-- *!silenthill
-  - _activates popup_
-- !sonicdrown
-- !spongechase
-- !spongefail
-  - _available under "Fail" Channel Reward_
-- *!stupidagame
-  - _activates popup_
-- !threeweeks
-- !tiptoe
-- toasty
-  - _activates popup_
-- !tooeasy
-  - _available under "Cheer" Channel Reward_
-- !torque
-- !trueliar
-- !twelveoclock
-- !twohours
-- !twothousand
-- *!wasted
-  - _available under "Fail" Channel Reward_
-  - _activates popup_
-- *!wheee
-  - _activates popup_
-- !whip
-- !wigs
-- !wow
-  - _available under "Cheer" Channel Reward_
-- *!yay
-  - _available under "Cheer" Channel Reward_
-  - _activates popup_
-- !yourbest
-  - _available under "Fail" Channel Reward_
-- !youwhat
-- !youlose
-  - _available under "Fail" Channel Reward_
-- !yousuck
-  - _available under "Fail" Channel Reward_
-- !youwin
-  - _available under "Cheer" Channel Reward_
-- !youwon
-  - _available under "Cheer" Channel Reward_
-- yuck
-  - _activates popup_
-- !yowassup
+| !gobbleme | Audio clip of a participant reciting lyrics from WAP by Cardi B from Tiahra Nelson's Talent show on instagram | Really funny take on Megan Thee Stallion's "Gobble me, swallow me" verse |
+| !golfclap | An audio clip of golf claps play | Will randomly play under the "Applause" Channel Reward |
+| !goodmorning | Tekken 3 announcer saying "Good Morning" | The best part of waking up is Tekken in your cup |
+| !guts | Someone saying "You don't have the guts, wussy!" | From the Twisted Metal 4 Create a Car mode battlecry options |
+| !halfamind | Someone saying "I've got half a mind to waste you, punk!" | From the Twisted Metal 4 Create a Car mode battlecry options |
+| !hearts | A chime plays from Chulip when Poor Boy recieves healing | Will randomly play under the "Cheer" Channel Reward |
+| huh | A video pops up of a cat making a facial expression and saying "Huh?" | From a popular Cat Meme |
+| !hump | A sound plays of Doomguy making a humping sound | From Doom & Doom II, the BEST GAMES EVER |
+| !idbuythat | Smash TV Host saying "I'd buy that for a dollar!" | Will randomly play under the "Cheer" Channel Reward |
+| !ididit | Player saying "I did it!" while he gets a round of applause. From the game "Neo Turn Masters" | Will randomly play under the "Cheer" Channel Reward |
+| !iloveit | Smash TV Host saying "I love it!" | Will randomly play under the "Cheer" Channel Reward |
+| !itsdangerous | Announcer from San Francisco Rush yelling "It's dangerous!" | Will randomly play under the "Fail" Channel Reward |
+| *!jack | A video clip pops up from Brokeback Mountain of the Ennis scene in his trailer at the end of the movie, but Pancho_Graves is included | Amazing movie |
+| !letsdoit | Tekken 3 announcer saying "Let's Do It!" | Best announcer |
+| !loser | Tekken 3 announcer saying "Loser" | Will randomly play under the "Fail" Channel Reward |
+| !lose1 | The Game Over music from Ninja Gaiden 2 for the NES | Will randomly play under the "Fail" Channel Reward |
+| !lose2 | The music that plays when you lose a life in Nina Gaiden 2 for the NES | Will randomly play under the "Fail" Channel Reward |
+| !manymonths | French Narrator from Spongebob saying "Many months later" | Time Card will briefly appear along with the sound |
+| !mariofail | Music that plays when you lose a life. Mario pops up along the sound | Will randomly play under the "Fail" Channel Reward |
+| *!miaou | Zacharie appears on screen and meows | From the "OFF" video game |
+| *!miss | Toad saying "Miss!" in Mario Party 1 along with the text popup | Will randomly play under the "Fail" Channel Reward |
+| !nancyhelp | Nancy Drew saying "Help, I'm a little stuck!" | Will randomly play under the "Fail" Channel Reward |
+| !naur | Lara Croft saying "No" | From the original Tomb Raider games |
+| !niceashot | Luigi saying "Nice a shot" | From Mario Golf 64 |
+| !niceshot | Golf announcer saying "Nice shot!" | From Wii Sports  |
+| !notpoopie | Sound that plays when Poor Boy collects a good item in the game Chulip | Will randomly play under the "Cheer" Channel Reward |
+| oof | Roblox character saying "oof" | Will randomly play under the "Fail" Channel Reward |
+| oops | Tekken 3 announcer saying "oops" | Will randomly play under the "Fail" Channel Reward |
+| !ovafayou | Effy saying "It's ova fa you!" during a "Who's Lila?" playthrough | Will randomly play under the "Fail" Channel Reward |
+| !poopie | Sound that plays when Poor Boy collects poop in the game Chulip | Will randomly play under the "Fail" Channel Reward |
+| punk | Someone saying "Punk" | From the Twisted Metal 4 Create a Car mode battlecry options |
+| *!readygo | "Ready... Go!" sound and animation plays | From Super Smash Bros. Melee |
+| !record | Toad saying "New Record" from Mario Party 1 | Will randomly play under the "Cheer" Channel Reward |
+| !sadviolin | A sad violin tune plays | Will randomly play under the "Fail" Channel Reward |
+| !scream | Lee Chaolan lets out a scream | From Tekken 8 |
+| !scream2 | Tom lets out an intense yell | From Tom and Jerry |
+| !scream3 | Tom lets out a very intense scream | From Tom and Jerry |
+| !scream4 | Homer Simpson lets out an intense scream | From The Simpsons |
+| !shiver | Someone saying "I'll make you shiver when I deliver!" | From the Twisted Metal 4 Create a Car mode battlecry options |
+| *!shutup | A video pops up of Tamon Takeuchi saying "Please... Shut up" | From the video game "Siren" |
+| *!silenthill | A video pops up of Andrew Tate talking to Harry Mason in Silent Hill | From a Silent Hill Homecoming review by BlueLad on YouTube |
+| !sonicdrown | The sound plays of Sonic drowning | From Sonic the Hedgehod 2 |
+| !spongechase | Grass Skirt Chase music plays | From Spongebob Squarepants |
+| !spongefail | Steel Sting plays from Spongebob Squarepants | Will randomly play under the "Fail" Channel Reward |
+| *!stupidagame | Furio says "Stupida Facking Game!" while Tony holds a brand new golf club. From "The Sopranos" | Will randomly play under the "Fail" Channel Reward |
+| !threeweeks | French Narrator saying "Three Weeks Later" | Time Card will briefly appear along with the sound |
+| !tiptoe | A sound will play of a character sneaking around | It sounds like it was made with a xylophone! |
+| toasty | The audio of "Toasty" in Mortal Kombat 2 will play along with Mii Effy making an appearance | Effy's rendition of the "Toasty" easter egg in MK2 |
+| !tooeasy | Shao Khan saying "Ahh too easy!" from Mortal Kombat 2! | Will randomly play under the "Cheer" Channel Reward |
+| !torque | Nancy Drew saying "I gotta have some torque!" | From the game "Nancy Drew: Ghost Dogs of Moon Lake" |
+| !twelveoclock | French Narrator saying "Twelve o'clock, Midnight" | Time Card will briefly appear along with the sound |
+| !twohours | French Narrator saying "Two Hours later" | Time Card will briefly appear along with the sound |
+| !twothousand | French Narrator saying "Two Thousand Years later" | Time Card will briefly appear along with the sound |
+| *!wasted | Death screen from Grand Theft Auto V plays, along with text and a screen effect popping up | Will randomly play under the "Fail" Channel Reward |
+| *!wheee | Audio of "1979" by "The Smashing Pumpkins" plays over the footage of a roller coaster | From a popular TikTok/Youtube Video |
+| !whip | Sound of a whip snapping plays | Be careful where you swing that thing! |
+| !wigs | Audio of an interviewer saying to Elijah Wood "When will you wear wigs?" | From an old prank interview with Dominic Monaghan in 2004 |
+| !wow | An audio of a girl saying "Wow!" plays along with some sound effects | Will randomly play under the "Cheer" Channel Reward |
+| *!yay | An audio clip of children cheering "Yay!" along with an appearance from The Chompettes from the game "Cooking Companions" | Will randomly play under the "Cheer" Channel Reward |
+| !youlose | Tekken 3 announcer saying "You Lose" | Will randomly play under the "Fail" Channel Reward |
+| !yourbest | Shao Khan saying "Ahahahaha. Is that your best?" from Mortal Kombat 1 | Will randomly play under the "Fail" Channel Reward |
+| !yousuck | Twisted Metal 4 Create a Character saying "Ahahahah. You suck." | Will randomly play under the "Fail" Channel Reward |
+| !youwhat | Plankton yelling "You what?!" | From Spongebob Squarepants |
+| !youwin | Tekken 3 announcer saying "You Win" | Will randomly play under the "Cheer" Channel Reward |
+| !youwon | Mario from "Mario's Game Gallery" saying "Eheheh. You Won!" | Will randomly play under the "Cheer" Channel Reward |
+| !yowassup | Someone saying "Yo wassup!" | From the Twisted Metal 4 Create a Car mode battlecry options |
+| yuck | A video of a cat making a disgusted face and sound after sniffing some food | From a popular cat meme |
