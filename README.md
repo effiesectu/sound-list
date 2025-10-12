@@ -63,6 +63,7 @@
 | !manymonths | French Narrator from Spongebob saying "Many months later" | Time Card will briefly appear along with the sound |
 | !mariofail | Music that plays when you lose a life. Mario pops up along the sound | Will randomly play under the "Fail" Channel Reward |
 | *!miaou | Zacharie appears on screen and meows | From the "OFF" video game |
+| !micola | Scooby Doo saying "Ayy, mi cola!" | From a Scooby Doo episode with Spanish dubs, when Scooby hides inside a baby grand piano and gets his tail caught with the lid |
 | *!miss | Toad saying "Miss!" in Mario Party 1 along with the text popup | Will randomly play under the "Fail" Channel Reward |
 | !nancyhelp | Nancy Drew saying "Help, I'm a little stuck!" | Will randomly play under the "Fail" Channel Reward |
 | !naur | Lara Croft saying "No" | From the original Tomb Raider games |
@@ -81,13 +82,16 @@
 | !scream2 | Tom lets out an intense yell | From Tom and Jerry |
 | !scream3 | Tom lets out a very intense scream | From Tom and Jerry |
 | !scream4 | Homer Simpson lets out an intense scream | From The Simpsons |
+| !scream5 | Luther from "The Suffering" letting out a crazy scream | This is the first time we see Luther, when he opens the door and he screams right at our face |
 | !shiver | Someone saying "I'll make you shiver when I deliver!" | From the Twisted Metal 4 Create a Car mode battlecry options |
 | *!shutup | A video pops up of Tamon Takeuchi saying "Please... Shut up" | From the video game "Siren" |
 | *!silenthill | A video pops up of Andrew Tate talking to Harry Mason in Silent Hill | From a Silent Hill Homecoming review by BlueLad on YouTube |
+| !soscared | Shaggy saying "I'm so scared, I wish I had a ham sandwich to calm my nerves" | From Scooby Doo |
 | !sonicdrown | The sound plays of Sonic drowning | From Sonic the Hedgehod 2 |
 | !spongechase | Grass Skirt Chase music plays | From Spongebob Squarepants |
 | !spongefail | Steel Sting plays from Spongebob Squarepants | Will randomly play under the "Fail" Channel Reward |
 | *!stupidagame | Furio says "Stupida Facking Game!" while Tony holds a brand new golf club. From "The Sopranos" | Will randomly play under the "Fail" Channel Reward |
+| !theykilledhim | Luther from "The Suffering" crying "Oh my god in heaven, they killed him! Oh God..... Oh God!" | Luther is one of the Correction Officers you encounter in the game |
 | !threeweeks | French Narrator saying "Three Weeks Later" | Time Card will briefly appear along with the sound |
 | !tiptoe | A sound will play of a character sneaking around | It sounds like it was made with a xylophone! |
 | toasty | The audio of "Toasty" in Mortal Kombat 2 will play along with Mii Effy making an appearance | Effy's rendition of the "Toasty" easter egg in MK2 |
