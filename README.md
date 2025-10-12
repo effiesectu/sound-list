@@ -4,7 +4,7 @@
 > Sounds marked with an asterisk (*) can only be used by **Moderators**, **Subscribers**, and **VIPs**
 
 > [!NOTE]
-> Alerts without an exclamation point can be used by **anyone**
+> Alerts without an exclamation point do not require the exclamation point when being entered and can be used by **anyone**
 
 | Alert Name | Description | Additional Info |
 | --- | --- | --- |
