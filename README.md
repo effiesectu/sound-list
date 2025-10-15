@@ -46,6 +46,7 @@
 | !gg | Randomly cycles through different video game win screen music | Will cycle through win music from GTA San Andreas, Kirby's Adventure, Megaman X, Rayman 1, The Sims, and Sonic 2 |
 | !go | Tekken 3 announcer saying "Go!" | Another command from the best Tekken announcer |
 | !gobbleme | Audio clip of a participant reciting lyrics from WAP by Cardi B from Tiahra Nelson's Talent show on instagram | Really funny take on Megan Thee Stallion's "Gobble me, swallow me" verse |
+| !goinon | NPC saying "What is goin' on?" | From Die Hard Trilogy on PS1 |
 | !golfclap | An audio clip of golf claps play | Will randomly play under the "Applause" Channel Reward |
 | !goodmorning | Tekken 3 announcer saying "Good Morning" | The best part of waking up is Tekken in your cup |
 | !guts | Someone saying "You don't have the guts, wussy!" | From the Twisted Metal 4 Create a Car mode battlecry options |
