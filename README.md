@@ -108,6 +108,7 @@
 | !whip | Sound of a whip snapping plays | Be careful where you swing that thing! |
 | !wigs | Audio of an interviewer saying to Elijah Wood "When will you wear wigs?" | From an old prank interview with Dominic Monaghan in 2004 |
 | !wow | An audio of a girl saying "Wow!" plays along with some sound effects | Will randomly play under the "Cheer" Channel Reward |
+| !yankee | A bad guy saying "Take this, yankee!" | From Die Hard Trilogy on PS1 |
 | *!yay | An audio clip of children cheering "Yay!" along with an appearance from The Chompettes from the game "Cooking Companions" | Will randomly play under the "Cheer" Channel Reward |
 | !youlose | Tekken 3 announcer saying "You Lose" | Will randomly play under the "Fail" Channel Reward |
 | !yourbest | Shao Khan saying "Ahahahaha. Is that your best?" from Mortal Kombat 1 | Will randomly play under the "Fail" Channel Reward |
