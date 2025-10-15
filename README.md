@@ -88,9 +88,10 @@
 | *!shutup | A video pops up of Tamon Takeuchi saying "Please... Shut up" | From the video game "Siren" |
 | *!silenthill | A video pops up of Andrew Tate talking to Harry Mason in Silent Hill | From a Silent Hill Homecoming review by BlueLad on YouTube |
 | !soscared | Shaggy saying "I'm so scared, I wish I had a ham sandwich to calm my nerves" | From Scooby Doo |
-| !sonicdrown | The sound plays of Sonic drowning | From Sonic the Hedgehod 2 |
+| !sonicdrown | The sound plays of Sonic drowning | From Sonic the Hedgehog 2 |
 | !spongechase | Grass Skirt Chase music plays | From Spongebob Squarepants |
 | !spongefail | Steel Sting plays from Spongebob Squarepants | Will randomly play under the "Fail" Channel Reward |
+| !stayalive | John McClane saying "Wanna stay alive? Stay with me." | From Die Hard Trilogy on the PS1 |
 | *!stupidagame | Furio says "Stupida Facking Game!" while Tony holds a brand new golf club. From "The Sopranos" | Will randomly play under the "Fail" Channel Reward |
 | !theykilledhim | Luther from "The Suffering" crying "Oh my god in heaven, they killed him! Oh God..... Oh God!" | Luther is one of the Correction Officers you encounter in the game |
 | !threeweeks | French Narrator saying "Three Weeks Later" | Time Card will briefly appear along with the sound |
