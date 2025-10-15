@@ -77,6 +77,7 @@
 | punk | Someone saying "Punk" | From the Twisted Metal 4 Create a Car mode battlecry options |
 | *!readygo | "Ready... Go!" sound and animation plays | From Super Smash Bros. Melee |
 | !record | Toad saying "New Record" from Mario Party 1 | Will randomly play under the "Cheer" Channel Reward |
+| !rip | The theme of a Sim dying will play | From The Sims |
 | !sadviolin | A sad violin tune plays | Will randomly play under the "Fail" Channel Reward |
 | !scream | Lee Chaolan lets out a scream | From Tekken 8 |
 | !scream2 | Tom lets out an intense yell | From Tom and Jerry |
