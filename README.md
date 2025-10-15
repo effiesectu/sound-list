@@ -9,7 +9,7 @@
 | Alert Name | Description | Additional Info |
 | --- | --- | --- |
 | !beatthedevil | Bob Ross saying "Just beat the devil out of it." | Fr1dabot chimes in with some Bob Ross emotes |
-| !believe | PaRappa the Rapper saying "Yeah... I know. I gotta believe!" | PaRappa comes up on the screen to say what he has to say! |
+| *!believe | PaRappa the Rapper saying "Yeah... I know. I gotta believe!" | PaRappa comes up on the screen to say what he has to say! |
 | !bestgame | Effy saying "That's why Doom is the best game!" | From an old stream clip where Effy speaks the truth about a specific elite game |
 | !bustyouup | Someone saying "I'mma bust you up!" | From the Twisted Metal 4 Create a Car mode battlecry options |
 | !buzz | An error sound from the game "Escape Simulator" plays | Will randomly play under the "Fail" Channel Reward |
