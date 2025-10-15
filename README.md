@@ -30,6 +30,7 @@
 | *!elijah | Elijah Wood pops up and lets out a crazy laugh | From an old prank interview with Dominic Monaghan in 2004 |
 | !error | A Windows error sound plays | Will randomly play under the "Fail" Channel Reward |
 | !eternity | French Narrator from Spongebob saying "One Eternity Later" | Time Card will briefly appear along with the sound |
+| !eurotrash | John McClane saying "Eurotrash" | From Die Hard Trilogy on PS1 |
 | !excellent | Lee Chaolan from Tekken saying "Excellent!" | Will randomly play under the "Cheer" Channel Reward |
 | *!failure | Failure sound and animation from "Super Smash Bros. Melee" will pop up | Will randomly play under the "Fail" Channel Reward |
 | !fantastic | Mario from "Mario's Game Gallery" saying "Mario think you fantastic!" | Will randomly play under the "Cheer" Channel Reward |
