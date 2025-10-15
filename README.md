@@ -25,6 +25,7 @@
 | !dayfour | French Narrator from Spongebob saying "Day Four" | Time Card will briefly appear along with the sound |
 | !daythree | French Narrator from Spongebob saying "Day Three" | Time Card will briefly appear along with the sound |
 | !daytwo | French Narrator from Spongebob saying "Day Two" | Time Card will briefly appear along with the sound |
+| !die1 | Enemy death sound | From Die Hard Trilogy on PS1 |
 | !doitnow | Tekken 3 announcer exclaiming "Do it now!" | The announcer has a lot of passion in his voice |
 | !dolphin | Dolphin sounds briefly play | Most commonly heard in Spongebob as a censor |
 | *!elijah | Elijah Wood pops up and lets out a crazy laugh | From an old prank interview with Dominic Monaghan in 2004 |
