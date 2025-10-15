@@ -41,7 +41,7 @@
 | !friendship | Mortal Kombat 2 announcer saying "Friendship... Friendship?!" | The best announcer announcing the weirdest fatality |
 | !gameover | Tekken 3 announcer saying "Game over" | Will randomly play under the "Fail" Channel Reward |
 | *!gameoveryeah | Announcer from Sega Rally Championship saying "Game Over Yeaaaaaahhh!" along with a Game Over image | Will randomly play under the "Fail" Channel Reward |
-| !gg | Randomly cycles through different video game win screen music | Will cycle through win music from Rayman 1, Kirby's Adventure, Sonic 2, Megaman X, and GTA San Andreas |
+| !gg | Randomly cycles through different video game win screen music | Will cycle through win music from GTA San Andreas, Kirby's Adventure, Megaman X, Rayman 1, The Sims, and Sonic 2 |
 | !go | Tekken 3 announcer saying "Go!" | Another command from the best Tekken announcer |
 | !gobbleme | Audio clip of a participant reciting lyrics from WAP by Cardi B from Tiahra Nelson's Talent show on instagram | Really funny take on Megan Thee Stallion's "Gobble me, swallow me" verse |
 | !golfclap | An audio clip of golf claps play | Will randomly play under the "Applause" Channel Reward |
