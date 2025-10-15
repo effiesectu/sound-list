@@ -81,6 +81,7 @@
 | punk | Someone saying "Punk" | From the Twisted Metal 4 Create a Car mode battlecry options |
 | *!readygo | "Ready... Go!" sound and animation plays | From Super Smash Bros. Melee |
 | !record | Toad saying "New Record" from Mario Party 1 | Will randomly play under the "Cheer" Channel Reward |
+| !requisition | John McClane saying "I requisition this vehicle for official police business!" | From Die Hard Trilogy on PS1 |
 | !rip | The theme of a Sim dying will play | From The Sims |
 | !sadviolin | A sad violin tune plays | Will randomly play under the "Fail" Channel Reward |
 | !scream | Lee Chaolan lets out a scream | From Tekken 8 |
