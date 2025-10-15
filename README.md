@@ -8,6 +8,7 @@
 
 | Alert Name | Description | Additional Info |
 | --- | --- | --- |
+| !aspirin | John McClane saying "Someone give me some aspirins" | From Die Hard Trilogy on PS1 |
 | !beatthedevil | Bob Ross saying "Just beat the devil out of it." | Fr1dabot chimes in with some Bob Ross emotes |
 | *!believe | PaRappa the Rapper saying "Yeah... I know. I gotta believe!" | PaRappa comes up on the screen to say what he has to say! |
 | !bestgame | Effy saying "That's why Doom is the best game!" | From an old stream clip where Effy speaks the truth about a specific elite game |
