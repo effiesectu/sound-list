@@ -26,8 +26,10 @@
 | !daythree | French Narrator from Spongebob saying "Day Three" | Time Card will briefly appear along with the sound |
 | !daytwo | French Narrator from Spongebob saying "Day Two" | Time Card will briefly appear along with the sound |
 | !die1 | Enemy death sound | From Die Hard Trilogy on PS1 |
+| !die2 | Doomguy death sound | One of doomguy's death sounds from Doom 1 & 2 |
+| !die3 | Doomguy death sound 2 | Another one of doomguy's death sounds from Doom 1 & 2 |
 | !doitnow | Tekken 3 announcer exclaiming "Do it now!" | The announcer has a lot of passion in his voice |
-| !dolphin | Dolphin sounds briefly play | Most commonly heard in Spongebob as a censor |
+| !dolphin | Dolphin sounds briefly play, and dolphins appear | Most commonly heard in Spongebob as a censor |
 | *!elijah | Elijah Wood pops up and lets out a crazy laugh | From an old prank interview with Dominic Monaghan in 2004 |
 | !error | A Windows error sound plays | Will randomly play under the "Fail" Channel Reward |
 | !eternity | French Narrator from Spongebob saying "One Eternity Later" | Time Card will briefly appear along with the sound |
@@ -44,7 +46,7 @@
 | !friendship | Mortal Kombat 2 announcer saying "Friendship... Friendship?!" | The best announcer announcing the weirdest fatality |
 | !gameover | Tekken 3 announcer saying "Game over" | Will randomly play under the "Fail" Channel Reward |
 | *!gameoveryeah | Announcer from Sega Rally Championship saying "Game Over Yeaaaaaahhh!" along with a Game Over image | Will randomly play under the "Fail" Channel Reward |
-| !gg | Randomly cycles through different video game win screen music | Will cycle through win music from GTA San Andreas, Kirby's Adventure, Megaman X, Rayman 1, The Sims, and Sonic 2 |
+| !gg | Randomly cycles through different video game win screen music and images | Will cycle through win music from GTA San Andreas, Kirby's Adventure, Megaman X, Rayman 1, The Sims, and Sonic 2 |
 | !go | Tekken 3 announcer saying "Go!" | Another command from the best Tekken announcer |
 | !gobbleme | Audio clip of a participant reciting lyrics from WAP by Cardi B from Tiahra Nelson's Talent show on instagram | Really funny take on Megan Thee Stallion's "Gobble me, swallow me" verse |
 | !goinon | NPC saying "What is goin' on?" | From Die Hard Trilogy on PS1 |
