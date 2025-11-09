@@ -1,7 +1,7 @@
 # sound-list
 ## list of all the sounds from the harsh realm
 > [!IMPORTANT]
-> Sounds marked with an asterisk (*) can only be used by **Moderators**, **Subscribers**, and **VIPs**
+> Alerts marked with an asterisk (*) can only be used by **Moderators**, **Subscribers**, and **VIPs**
 
 > [!NOTE]
 > Alerts without an exclamation point do not require the exclamation point when being entered and can be used by **anyone**
@@ -50,7 +50,7 @@
 | !go | Tekken 3 announcer saying "Go!" | Another command from the best Tekken announcer |
 | !gobbleme | Audio clip of a participant reciting lyrics from WAP by Cardi B from Tiahra Nelson's Talent show on instagram | Really funny take on Megan Thee Stallion's "Gobble me, swallow me" verse |
 | !goinon | NPC saying "What is goin' on?" | From Die Hard Trilogy on PS1 |
-| !golfclap | An audio clip of golf claps play | Will randomly play under the "Applause" Channel Reward |
+| !golfclap | An audio clip of golf claps play | A nice, classy clap |
 | !goodmorning | Tekken 3 announcer saying "Good Morning" | The best part of waking up is Tekken in your cup |
 | !guts | Someone saying "You don't have the guts, wussy!" | From the Twisted Metal 4 Create a Car mode battlecry options |
 | !halfamind | Someone saying "I've got half a mind to waste you, punk!" | From the Twisted Metal 4 Create a Car mode battlecry options |
@@ -119,7 +119,7 @@
 | !youlose | Tekken 3 announcer saying "You Lose" | Will randomly play under the "Fail" Channel Reward |
 | !yourbest | Shao Khan saying "Ahahahaha. Is that your best?" from Mortal Kombat 1 | Will randomly play under the "Fail" Channel Reward |
 | !yousuck | Twisted Metal 4 Create a Character saying "Ahahahah. You suck." | Will randomly play under the "Fail" Channel Reward |
-| !youwhat | Plankton yelling "You what?!" | From Spongebob Squarepants |
+| !youwhat | Tom the fish making a quick appearance yelling "You what?!" | From Spongebob Squarepants |
 | !youwin | Tekken 3 announcer saying "You Win" | Will randomly play under the "Cheer" Channel Reward |
 | !youwon | Mario from "Mario's Game Gallery" saying "Eheheh. You Won!" | Will randomly play under the "Cheer" Channel Reward |
 | !yowassup | Someone saying "Yo wassup!" | From the Twisted Metal 4 Create a Car mode battlecry options |
