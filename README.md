@@ -109,6 +109,7 @@
 | !twelveoclock | French Narrator saying "Twelve o'clock, Midnight" | Time Card will briefly appear along with the sound |
 | !twohours | French Narrator saying "Two Hours later" | Time Card will briefly appear along with the sound |
 | !twothousand | French Narrator saying "Two Thousand Years later" | Time Card will briefly appear along with the sound |
+| !tylenol | Ilija saying "I need a fucking tylenol!" | One of [Ilija_supertzar](https://www.twitch.tv/ilija_supertzar)'s sound alerts, check out his streams! |
 | *!wasted | Death screen from Grand Theft Auto V plays, along with text and a screen effect popping up | Will randomly play under the "Fail" Channel Reward |
 | *!wheee | Audio of "1979" by "The Smashing Pumpkins" plays over the footage of a roller coaster | From a popular TikTok/Youtube Video |
 | !whip | Sound of a whip snapping plays | Be careful where you swing that thing! |
